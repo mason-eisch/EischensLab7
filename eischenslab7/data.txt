@@ -1,0 +1,46 @@
+TASK 1: DFAs
+1)
+11111	Accept
+01011	Accept
+11110	Accept
+10001	Accept
+00001	Reject
+000000000	Reject
+
+2)
+11111	Accept
+01011	Accept
+11110	Reject
+10001	Reject
+00001	Accept
+000000000	Reject
+
+3) 
+11001	Reject
+11000	Reject
+11100	Accept
+00000	Reject
+000000	Accept
+1100100	Accept
+
+4)
+01	Accept
+10	Reject
+001	Accept
+010	Reject
+111	Reject
+000	Reject
+011	Accept
+
+Task 2: NFAs
+1)
+01	Reject
+10	Reject
+00	Accept
+11	Accept
+011	Accept
+100	Accept
+010	Accept
+101	Accept
+1100	Accept
+1111	Accept
