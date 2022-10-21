@@ -44,3 +44,52 @@ Task 2: NFAs
 101	Accept
 1100	Accept
 1111	Accept
+
+2) 
+01	Reject
+011110000000001	Accept
+10	Reject
+010	Reject
+1111	Reject
+0000	Reject
+0101	Accept
+
+3)
+01	Reject
+110	Reject
+010	Accept
+001	Accept
+10	Reject
+111100	Reject
+000010	Accept
+1	Reject
+
+Task 3: combining automata
+1) 
+10	Reject
+110	Accept
+101	Reject
+11101	Reject
+	Reject
+11000	Accept
+00111	Reject
+1	Reject
+111	Reject
+000	Reject
+
+2)
+111110	Accept
+11	Accept
+00	Reject
+110110	Accept
+111100	Reject
+110011	Reject
+	Accept
+
+3)
+00	Accept
+10101	Accept
+11	Reject
+111	Reject
+0	Reject
+	Reject

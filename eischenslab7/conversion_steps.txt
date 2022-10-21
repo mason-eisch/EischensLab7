@@ -1,0 +1,3 @@
+1) First, I expanded the inital state (Q0) to {Q1} on 0 and made Q0 point to itself on 1
+2) Next, I expanded {Q1} to our accept state ({Q2}) on 0 and made Q1 point to itself on 1
+3) Finally, I made {Q2} point to itself on both 1 and 0
